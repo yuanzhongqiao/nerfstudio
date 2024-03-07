@@ -14,51 +14,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/3310961/194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/3310961/194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="415" height="234"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/3310961/194017985-ade69503-9d68-46a2-b518-2db1a012f090.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image> <animated-image data-catalyst="" style="width: 46%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="367" height="236"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/3310961/194020648-7e5f380c-15ca-461d-8c1c-20beb586defe.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+      
 <ul dir="auto">
 <li><a href="#quickstart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></a></li>
 <li><a href="#learn-more"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多</font></font></a></li>
@@ -109,16 +65,7 @@
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda create --name nerfstudio -y python=3.8
 conda activate nerfstudio
 pip install --upgrade pip</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda create --name nerfstudio -y python=3.8
-conda activate nerfstudio
-pip install --upgrade pip" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+ 
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">依赖关系</font></font></h3><a id="user-content-dependencies" class="anchor" aria-label="永久链接：依赖关系" href="#dependencies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 CUDA 安装 PyTorch （此存储库已使用 CUDA 11.7 和 CUDA 11.8 进行了测试）和</font></font><a href="https://github.com/NVlabs/tiny-cuda-nn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tiny-cuda-nn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。
@@ -128,48 +75,21 @@ pip install --upgrade pip" tabindex="0" role="button">
 
 conda install -c <span class="pl-s"><span class="pl-pds">"</span>nvidia/label/cuda-11.8.0<span class="pl-pds">"</span></span> cuda-toolkit
 pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/<span class="pl-c"><span class="pl-c">#</span>subdirectory=bindings/torch</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install torch==2.1.2+cu118 torchvision==0.16.2+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
-
-conda install -c &quot;nvidia/label/cuda-11.8.0&quot; cuda-toolkit
-pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关更多信息，请参阅</font><font style="vertical-align: inherit;">
 安装文档中的</font></font><a href="https://github.com/nerfstudio-project/nerfstudio/blob/main/docs/quickstart/installation.md#dependencies"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">依赖项。</font></font></a><font style="vertical-align: inherit;"></font></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装nerfstudio</font></font></h3><a id="user-content-installing-nerfstudio" class="anchor" aria-label="永久链接：安装 nerfstudio" href="#installing-nerfstudio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简单的选择：</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install nerfstudio</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install nerfstudio" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想要最新最好的：</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/nerfstudio-project/nerfstudio.git
 <span class="pl-c1">cd</span> nerfstudio
 pip install --upgrade pip setuptools
 pip install -e <span class="pl-c1">.</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/nerfstudio-project/nerfstudio.git
-cd nerfstudio
-pip install --upgrade pip setuptools
-pip install -e ." tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+ 
   </div></div>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者，</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想跳过所有安装步骤并直接开始使用 nerfstudio，请使用 docker 镜像：</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/nerfstudio-project/nerfstudio/blob/main/docs/quickstart/installation.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 docker 镜像</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
@@ -179,17 +99,7 @@ pip install -e ." tabindex="0" role="button">
 ns-download-data nerfstudio --capture-name=poster
 <span class="pl-c"><span class="pl-c">#</span> Train model</span>
 ns-train nerfacto --data data/nerfstudio/poster</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Download some test data:
-ns-download-data nerfstudio --capture-name=poster
-# Train model
-ns-train nerfacto --data data/nerfstudio/poster" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果一切正常，您应该会看到如下所示的训练进度：</font></font></p>
 <p align="center" dir="auto">
@@ -202,26 +112,12 @@ ns-train nerfacto --data data/nerfstudio/poster" tabindex="0" role="button">
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从检查点恢复/可视化现有运行</font></font></h3><a id="user-content-resume-from-checkpoint--visualize-existing-run" class="anchor" aria-label="永久链接：从检查点恢复/可视化现有运行" href="#resume-from-checkpoint--visualize-existing-run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以通过运行加载预训练模型</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-train nerfacto --data data/nerfstudio/poster --load-dir {outputs/.../nerfstudio_models}</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-train nerfacto --data data/nerfstudio/poster --load-dir {outputs/.../nerfstudio_models}" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可视化现有运行</font></font></h2><a id="user-content-visualize-existing-run" class="anchor" aria-label="永久链接：可视化现有运行" href="#visualize-existing-run"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给定预训练的模型检查点，您可以通过运行来启动查看器</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-viewer --load-config {outputs/.../config.yml}</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-viewer --load-config {outputs/.../config.yml}" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3. 导出结果</font></font></h2><a id="user-content-3-exporting-results" class="anchor" aria-label="永久链接：3.导出结果" href="#3-exporting-results"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有 NeRF 模型后，您可以渲染视频或导出点云。</font></font></p>
@@ -229,27 +125,13 @@ ns-train nerfacto --data data/nerfstudio/poster" tabindex="0" role="button">
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，我们必须创建一条供相机遵循的路径。</font><font style="vertical-align: inherit;">这可以在查看器的“RENDER”选项卡下完成。</font><font style="vertical-align: inherit;">将 3D 视图定向到您希望视频开始的位置，然后按“添加摄像机”。</font><font style="vertical-align: inherit;">这将设置第一个相机关键帧。</font><font style="vertical-align: inherit;">继续添加额外的摄像机以创建摄像机路径的新视点。</font><font style="vertical-align: inherit;">我们提供其他参数来进一步完善您的相机路径。</font><font style="vertical-align: inherit;">满意后，按“RENDER”，这将显示一个包含渲染视频所需命令的模式。</font><font style="vertical-align: inherit;">终止训练作业（或者如果您有大量计算，则创建一个新终端）并运行命令来生成视频。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还可以使用其他视频导出选项，通过运行了解更多信息</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-render --help</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-render --help" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生成点云</font></font></h3><a id="user-content-generate-point-cloud" class="anchor" aria-label="永久链接：生成点云" href="#generate-point-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然 NeRF 模型不是为生成点云而设计的，但它仍然是可能的。</font><font style="vertical-align: inherit;">导航到 3D 查看器中的“导出”选项卡并选择“点云”。</font><font style="vertical-align: inherit;">如果选择裁剪选项，黄色方块中的所有内容都将导出到点云中。</font><font style="vertical-align: inherit;">根据需要修改设置，然后在命令行中运行面板底部的命令。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者，您可以在没有查看器的情况下使用 CLI。</font><font style="vertical-align: inherit;">通过运行了解导出选项</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-export pointcloud --help</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-export pointcloud --help" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4. 使用自定义数据</font></font></h2><a id="user-content-4-using-custom-data" class="anchor" aria-label="永久链接：4. 使用自定义数据" href="#4-using-custom-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用现有数据集固然很棒，但您可能想使用自己的数据！</font><font style="vertical-align: inherit;">我们支持使用您自己的数据的各种方法。</font><font style="vertical-align: inherit;">在将其用于 nerfstudio 之前，必须确定相机位置和方向，然后使用</font></font><code>ns-process-data</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">为此，我们依靠外部工具，可以在文档中找到说明和信息。</font></font></p>
@@ -341,27 +223,13 @@ ns-train nerfacto --data data/nerfstudio/poster" tabindex="0" role="button">
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">除 nerfacto 之外的训练模型</font></font></h3><a id="user-content-training-models-other-than-nerfacto" class="anchor" aria-label="永久链接：nerfacto 以外的训练模型" href="#training-models-other-than-nerfacto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们提供了nerfacto以外的其他模型，例如如果你想训练原始的nerf模型，请使用以下命令</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-train vanilla-nerf --data DATA_PATH</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-train vanilla-nerf --data DATA_PATH" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要获得所含型号的完整列表，请运行</font></font><code>ns-train --help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">修改配置</font></font></h3><a id="user-content-modify-configuration" class="anchor" aria-label="永久链接：修改配置" href="#modify-configuration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每个模型都包含许多可以更改的参数，此处无法列出。</font><font style="vertical-align: inherit;">使用该</font></font><code>--help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令查看配置选项的完整列表。</font></font></p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>ns-train nerfacto --help</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ns-train nerfacto --help" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">张量板 / WandB / 查看器</font></font></h3><a id="user-content-tensorboard--wandb--viewer" class="anchor" aria-label="永久链接：Tensorboard / WandB / Viewer" href="#tensorboard--wandb--viewer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们支持四种不同的方法来跟踪训练进度，使用查看器</font></font><a href="https://www.tensorflow.org/tensorboard" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">张量板</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://wandb.ai/site" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">权重和偏差</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及</font></font><a href="https://comet.com/?utm_source=nerf&amp;utm_medium=referral&amp;utm_content=github" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">彗星</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><code>--vis {viewer, tensorboard, wandb, comet viewer+wandb, viewer+tensorboard, viewer+comet}</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过附加到训练命令</font><font style="vertical-align: inherit;">来指定要使用的可视化工具。</font><font style="vertical-align: inherit;">在评估步骤中同时使用查看器和 wandb 或张量板可能会导致卡顿问题。</font><font style="vertical-align: inherit;">该查看器仅适用于快速方法（即 nerfacto、instant-ngp），对于 NeRF 等较慢方法，请使用其他记录器。</font></font></p>
@@ -507,25 +375,7 @@ ns-train nerfacto --data data/nerfstudio/poster" tabindex="0" role="button">
 	series       = {SIGGRAPH '23}
 }
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@inproceedings{nerfstudio,
-	title        = {Nerfstudio: A Modular Framework for Neural Radiance Field Development},
-	author       = {
-		Tancik, Matthew and Weber, Ethan and Ng, Evonne and Li, Ruilong and Yi, Brent
-		and Kerr, Justin and Wang, Terrance and Kristoffersen, Alexander and Austin,
-		Jake and Salahi, Kamyar and Ahuja, Abhik and McAllister, David and Kanazawa,
-		Angjoo
-	},
-	year         = 2023,
-	booktitle    = {ACM SIGGRAPH 2023 Conference Proceedings},
-	series       = {SIGGRAPH '23}
-}" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h1><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/nerfstudio-project/nerfstudio/graphs/contributors">
