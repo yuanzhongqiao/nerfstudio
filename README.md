@@ -1,29 +1,4 @@
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
-    
-    <a href="https://discord.gg/uMbNqcraFc" rel="nofollow"><img src="https://camo.githubusercontent.com/d37956636e3bb96055a2861d9c068151f735bc1f7b190228877cbecf13c5d19e/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f754d624e7163726146633f7374796c653d706c6173746963" data-canonical-src="https://dcbadge.vercel.app/api/server/uMbNqcraFc?style=plastic" style="max-width: 100%;"></a>
-    
-    <a href="https://docs.nerf.studio/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/aeb8313b305a55ce058f20883738ce810b9ed74b74b4c41ced25f94340ae4f70/68747470733a2f2f72656164746865646f63732e636f6d2f70726f6a656374732f706c656e6f707469782d6e65726673747564696f2f62616467652f3f76657273696f6e3d6c6174657374" alt="文件状态" data-canonical-src="https://readthedocs.com/projects/plenoptix-nerfstudio/badge/?version=latest" style="max-width: 100%;"></a>
-    
-    <a href="https://badge.fury.io/py/nerfstudio" rel="nofollow"><img src="https://camo.githubusercontent.com/da280d2ca508ee6e78774c0d0e0b1840c813fca72327d96b9bc089d223183f35/68747470733a2f2f62616467652e667572792e696f2f70792f6e65726673747564696f2e737667" alt="PyPI版本" data-canonical-src="https://badge.fury.io/py/nerfstudio.svg" style="max-width: 100%;"></a>
-    
-    <a href="https://github.com/nerfstudio-project/nerfstudio/actions/workflows/core_code_checks.yml">
-        <img src="https://github.com/nerfstudio-project/nerfstudio/actions/workflows/core_code_checks.yml/badge.svg" alt="测试状态" style="max-width: 100%;"></a>
-    
-    <a href="https://github.com/nerfstudio-project/nerfstudio/blob/master/LICENSE">
-        <img alt="执照" src="https://camo.githubusercontent.com/44bc63cdf9bc4b15dcf019006fc6e19bc712fc031f39fab78c0c4595b2967e93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368655f322e302d626c75652e737667" data-canonical-src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" style="max-width: 100%;"></a>
-</p>
-<p align="center" dir="auto">
-    
-    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/955f19b325db3f73abcbcf2be0386a417da8007ad7887b18c981389c4e109a4e/68747470733a2f2f646f63732e6e6572662e73747564696f2f5f696d616765732f6c6f676f2d6461726b2e706e67" data-canonical-src="https://docs.nerf.studio/_images/logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/d837ce2c9f3b6a1bd57e61fb4a9fdcca16b74a7e4c1fc363ca5ede5d750c9dbb/68747470733a2f2f646f63732e6e6572662e73747564696f2f5f696d616765732f6c6f676f2e706e67" data-canonical-src="https://docs.nerf.studio/_images/logo.png">
-    
-    <img alt="纳夫工作室" src="https://camo.githubusercontent.com/d837ce2c9f3b6a1bd57e61fb4a9fdcca16b74a7e4c1fc363ca5ede5d750c9dbb/68747470733a2f2f646f63732e6e6572662e73747564696f2f5f696d616765732f6c6f676f2e706e67" width="400" data-canonical-src="https://docs.nerf.studio/_images/logo.png" style="visibility:visible;max-width:100%;">
-    
-    </picture></themed-picture>
-    
-</p>
+ 
 
 
 <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NeRF 的协作友好工作室</font></font></p>
